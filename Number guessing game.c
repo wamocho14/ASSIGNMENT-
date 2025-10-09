@@ -1,6 +1,8 @@
-/*Name: Griffin Mutali
+/*
+Name: Griffin Mutali
 REG NO: PA106/G/28744/25
-ASSIGNMENT WEEK 4: Number Guessing Game*/
+ASSIGNMENT WEEK 4: Number Guessing Game
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -30,4 +32,5 @@ int main()
 	}
 	return 0;
 	
+
 }
