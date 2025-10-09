@@ -1,5 +1,5 @@
-//hello world
-/*
+
+/*Hello world program
 Name: Griffin Mutali
 REG NO: PA106/G/28744/25
 ASSIGNMENT WEEK 4: Password Program
@@ -21,4 +21,5 @@ int main()
 	printf("Access Granted\n");
 	
 	return 0;
+
 }
