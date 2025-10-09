@@ -1,4 +1,4 @@
-/*
+/*Hello world program
 Name: Griffin Mutali
 REG NO: PA106/G/28744/25
 ASSIGNMENT WEEK 4: Number Guessing Game
@@ -34,3 +34,4 @@ int main()
 	
 
 }
+
