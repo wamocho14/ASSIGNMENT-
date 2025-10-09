@@ -1,4 +1,4 @@
-/*
+/*hello world program
 Name: Griffin Mutali
 REG NO: PA106/G/28744/25
 ASSIGNMENT WEEK 4: ATM Withdrawal Program
@@ -21,4 +21,5 @@ int main()
 	
 	printf("Account balance is zero or negative.\n");
 	return 0;
+
 }
